@@ -1,0 +1,38 @@
+section{
+    padding: 50px 0;
+}
+.banner-text h2 {
+    font-size: 50px;
+}
+.banner-text p{
+    font-size: 25px;
+    padding: 10px 0;
+}
+
+#about{
+    background-color: #30373B;
+    color: #e2dcdc;
+}
+.service-img i{
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.social-links li{
+    list-style: none;
+    padding: 0 10px;
+    font-size: 20px;;
+}
+#pricing{
+    background-color: #30373B;
+    color: #e2dcdc;
+}
+
+#customers{
+    background-color: #000;
+    display: block;
+}
+
+footer{
+    background-color: #30373B;
+    color: #e2dcdc;
+}
